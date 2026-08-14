@@ -1,0 +1,2105 @@
+[
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "330": "Citric Acid",
+            "331": "Sodium Citrate",
+            "296": "Malic Acid",
+            "211": "Sodium Benzoate"
+        },
+        "key_difference": "The Indian version of 7 Up Lemon Soft Drink uses Sugar and Preservative 211, whereas the Global version uses Steviol Glycosides as a sweetener and has a different set of acidity regulators and natural flavorings.",
+        "item_name": "7 Up Lemon Soft Drink",
+        "brand": "7 UP"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 95,
+        "decoded_e_numbers": {
+            "330": "Citric Acid",
+            "331": "Sodium Citrate",
+            "296": "Malic Acid",
+            "445": "Glycerol Esters of Wood Rosin"
+        },
+        "key_difference": "The Indian and Global ingredients of 7UP Nimbooz Soft Drink are largely similar, with the only notable difference being the additional mention of 'RECONSTITUTED' and 'EQUIVALENT TO 5% LEMON JUICE' in the Global ingredients list.",
+        "item_name": "7UP Nimbooz Soft Drink",
+        "brand": "7 UP NIMBOOZ"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "Ins322": "Lecithin",
+            "Ins415": "Xanthan Gum",
+            "Ins492": "Sodium Stearoyl Lactylate",
+            "Is341(Ii)": "Monocalcium Phosphate"
+        },
+        "key_difference": "The Indian formula uses hydrogenated vegetable oil and lacks certain ingredients like corn syrup, propylene glycol mono and diesters, and artificial flavor present in the global formula.",
+        "item_name": "Betty Crocker Triple Chocolate Brownie Instant Cake\u00a0Mix\u00a0Powder",
+        "brand": "BETTY CROCKER"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 40,
+        "decoded_e_numbers": {
+            "442": "Ammonium phosphatides",
+            "476": "Polyglycerol polyricinoleate"
+        },
+        "key_difference": "The Indian version of Cadbury Bournville Cranberry 50% Dark Chocolate Bar contains dried sweetened cranberries, almonds, and milk solids, which are not listed in the global ingredients.",
+        "item_name": "Cadbury Bournville Cranberry 50% Dark CHOCOLATE BAR",
+        "brand": "CADBURY"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "442": "Ammonium phosphatides",
+            "476": "Polyglycerol polyricinoleate",
+            "E476": "Polyglycerol polyricinoleate"
+        },
+        "key_difference": "The Indian version of Cadbury Bournville Fruit & Nut 50% Dark CHOCOLATE BAR contains apricot kernels, whereas the global version contains palm oil and soya lecithins.",
+        "item_name": "Cadbury Bournville Fruit & Nut 50% Dark CHOCOLATE BAR",
+        "brand": "CADBURY"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "442": "Ammonium phosphatides",
+            "476": "Polyglycerol polyricinoleate",
+            "476 (global)": "Polyglycerol polyricinoleate",
+            "e476 (global)": "Polyglycerol polyricinoleate",
+            "soya lecithin": "Lecithin"
+        },
+        "key_difference": "The Indian version of Cadbury Bournville Rich Cocoa 70% Dark Chocolate Bar contains Emulsifiers 442 and 476, whereas the global version contains soya lecithin and e476.",
+        "item_name": "Cadbury Bournville Rich Cocoa 70% Dark CHOCOLATE BAR",
+        "brand": "CADBURY"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 30,
+        "decoded_e_numbers": {
+            "442": "Ammonium phosphatides",
+            "476": "Polyglyceryl polyricinoleate"
+        },
+        "key_difference": "The Indian version of Cadbury Temptations Almond Treat Premium CHOCOLATE BAR contains a more detailed list of ingredients, including milk solids, cocoa solids, and emulsifiers, whereas the global version has a more simplified ingredient list with cocoa powder and acidity regulator.",
+        "item_name": "Cadbury Temptations Almond Treat Premium CHOCOLATE BAR",
+        "brand": "CADBURY"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 90,
+        "decoded_e_numbers": {
+            "442": "Ammonium phosphatides",
+            "476": "Polyglyceryl polyricinoleate"
+        },
+        "key_difference": "The Indian version of Cadbury Temptations Rum & Raisins Premium CHOCOLATE BAR includes an additional flavour of VANILLA CAKE compared to the global formula.",
+        "item_name": "Cadbury Temptations Rum & Raisins Premium CHOCOLATE BAR",
+        "brand": "CADBURY"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 95,
+        "decoded_e_numbers": {
+            "150c": "Brown HT",
+            "322": "Lecithin",
+            "471": "Mono- and di-glycerides of fatty acids",
+            "500": "Sodium carbonate"
+        },
+        "key_difference": "The Indian version of Bournvita Chocolate contains a vanilla cake flavour, whereas the global version contains a vanilla flavour.",
+        "item_name": "Bournvita Chocolate",
+        "brand": "CADBURY"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 20,
+        "decoded_e_numbers": {
+            "450(i)": "Sodium triphosphate",
+            "500(ii)": "Sodium bicarbonate",
+            "341(i)": "Calcium phosphate",
+            "322": "Lecithin",
+            "471": "Mono- and di-glycerides of fatty acids",
+            "442": "Ammonium phosphatide",
+            "476": "Polyglycerol polyricinoleate"
+        },
+        "key_difference": "The Indian version of Cadbury 5 Star 3D chocolate bar contains a more complex ingredient list with added flavorings and textures, whereas the global version has a simpler formula with fewer ingredients.",
+        "item_name": "Cadbury 5 Star 3D CHOCOLATE BAR",
+        "brand": "CADBURY"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 80,
+        "decoded_e_numbers": {
+            "442": "Ammonium phosphatides",
+            "471": "Mono- and di-glycerides of fatty acids",
+            "476": "Polyglycerol polyricinoleate"
+        },
+        "key_difference": "The Indian formula includes additional flavorings such as milk and vanilla cake, while the global formula includes lactose-rich deproteinized whey permeate powder, resulting in slightly different flavor profiles.",
+        "item_name": "Cadbury 5 Star CHOCOLATE BAR",
+        "brand": "CADBURY"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "442": "Potassium phosphate",
+            "476": "Polyglycerol polyricinoleate"
+        },
+        "key_difference": "The Indian version of Cadbury Bournville Rich Cocoa 50% Dark Chocolate Bar contains Milk Solids and Nature Identical Flavoring Substances, which are not present in the Global version.",
+        "item_name": "Cadbury Bournville Rich Cocoa 50% Dark CHOCOLATE BAR",
+        "brand": "CADBURY"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 85,
+        "decoded_e_numbers": {
+            "442": "Glycerol esters of wood rosins",
+            "476": "Polyglycerol polyricinoleate",
+            "414": "Gum arabic",
+            "1400": "Dextrin",
+            "904": "Shellac"
+        },
+        "key_difference": "The Indian version lists Fractionated Fat and Liquid Glucose, whereas the global version mentions vegetable fats like palm and shea, and does not explicitly list liquid glucose.",
+        "item_name": "Cadbury Dairy Milk Bites Hazelnut Chocolate Pack",
+        "brand": "CADBURY"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 90,
+        "decoded_e_numbers": {
+            "e442": "Ammonium phosphatide",
+            "e476": "Polyglyceryl polyricinoleate"
+        },
+        "key_difference": "The Indian version of Cadbury Dairy Milk Chocolate Bar contains a higher percentage of milk solids at 23% compared to the global version which has a minimum of 20%.",
+        "item_name": "Cadbury Dairy Milk Chocolate\u00a0Bar",
+        "brand": "CADBURY"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 70,
+        "decoded_e_numbers": {
+            "442": "Glycerol esters of wood rosins",
+            "450": "Tri-sodium citrate",
+            "476": "Polyglycerol polyricinoleate",
+            "500": "Sodium carbonate",
+            "341": "Sodium phosphates"
+        },
+        "key_difference": "The Indian formula contains artificial VANILLA CAKE flavor, while the Global formula contains Caramel and Vanilla flavors, indicating a difference in flavor profiles between the two regions.",
+        "item_name": "Cadbury Dairy Milk Crispello CHOCOLATE BAR",
+        "brand": "CADBURY"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 90,
+        "decoded_e_numbers": {
+            "442": "Ammonium phosphatide",
+            "476": "Polyglycerol polyricinoleate"
+        },
+        "key_difference": "The Indian version of Cadbury Dairy Milk Fruit & Nut lists 'Fractionated Fat' whereas the Global version specifies 'vegetable fats (palm, shea)' in its ingredients.",
+        "item_name": "Cadbury Dairy Milk Fruit & Nut CHOCOLATE BAR",
+        "brand": "CADBURY"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "500": "Sodium carbonate",
+            "503": "Ammonium carbonate",
+            "322": "Lecithin",
+            "450": "Diphosphates",
+            "341": "Calcium phosphates",
+            "1400": "Dextrin",
+            "442": "Ammonium phosphatides",
+            "476": "Polyglycerol polyricinoleate"
+        },
+        "key_difference": "The Indian version of Cadbury Dairy Milk Lickables Chocolate with Oreo Chunks contains Palm Superolein and Hydrogenated Vegetable Fat, whereas the Global version contains cocoa butter and vegetable fats like shea.",
+        "item_name": "Cadbury Dairy Milk Lickables Chocolate with Oreo Chunks",
+        "brand": "CADBURY"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 90,
+        "decoded_e_numbers": {
+            "442": "Ammonium phosphatides",
+            "476": "Polyglycerol polyricinoleate",
+            "470": "Fatty acid salts and esters"
+        },
+        "key_difference": "The Indian version of Cadbury Dairy Milk Silk Bubbly chocolate bar uses emulsifiers 442 and 476, whereas the global version uses emulsifier 470.",
+        "item_name": "Cadbury Dairy Milk Silk Bubbly CHOCOLATE BAR",
+        "brand": "CADBURY"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 90,
+        "decoded_e_numbers": {
+            "442": "Ammonium phosphatide",
+            "476": "Polyglyceryl polyricinoleate"
+        },
+        "key_difference": "The Indian version of Cadbury Dairy Milk Silk chocolate bar includes 'Natural Flavours' and 'VANILLA CAKE Flavouring Substances' whereas the global version only mentions 'Flavours' including natural, nature identical, and artificial vanilla flavouring substances.",
+        "item_name": "Cadbury Dairy Milk Silk CHOCOLATE BAR",
+        "brand": "CADBURY"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "307C": "Antioxidant (TBHQ)",
+            "322": "Lecithin",
+            "330": "Citric acid",
+            "422": "Glycerol",
+            "440": "Pectin",
+            "442": "Ammonium phosphatide",
+            "476": "Polyglyceryl polyricinoleate",
+            "500": "Sodium bicarbonate",
+            "503": "Ammonium bicarbonate"
+        },
+        "key_difference": "The Indian version of Cadbury Dairy Milk Silk Desserts Plum Cake contains additional ingredients such as Apple Orange Pieces, Wheat Fibre, and Orange Juice Concentrate, which are not listed in the global ingredients.",
+        "item_name": "Cadbury Dairy Milk Silk Desserts Plum Cake CHOCOLATE BAR",
+        "brand": "CADBURY"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 80,
+        "decoded_e_numbers": {
+            "442": "Ammonium phosphatides",
+            "476": "Polyglyceryl polyricinoleate"
+        },
+        "key_difference": "The Indian version of Cadbury Dairy Milk Silk Hazelnut contains 21% milk solids and flavours including vanilla cake, whereas the global version contains 25% milk solids and only vanilla flavouring substances.",
+        "item_name": "Cadbury Dairy Milk Silk Hazelnut CHOCOLATE BAR",
+        "brand": "CADBURY"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 80,
+        "decoded_e_numbers": {
+            "442": "Glycerol esters of wood rosins",
+            "476": "Polyglycerol polyricinoleate"
+        },
+        "key_difference": "The Indian version of Cadbury Dairy Milk Silk Mousse lists 'Fractionated Fat' in the centre filling, whereas the global version lists 'vegetable fats' including palm and shea.",
+        "item_name": "Cadbury Dairy Milk Silk Mousse CHOCOLATE BAR",
+        "brand": "CADBURY"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 20,
+        "decoded_e_numbers": {
+            "422": "Glycerol",
+            "471": "Mono- and di-glycerides of fatty acids",
+            "322": "Lecithin",
+            "442": "Ammonium phosphatides",
+            "476": "Polyglycerol polyricinoleate"
+        },
+        "key_difference": "The Indian version of Cadbury Fuse Mini Treats contains peanuts and a more complex formulation with multiple emulsifiers and flavorings, whereas the global version has a simpler formulation with sugar, cocoa powder, and flavoring.",
+        "item_name": "Cadbury Fuse Mini Treats Chocolate Pack",
+        "brand": "CADBURY"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 95,
+        "decoded_e_numbers": {
+            "102": "Tartrazine",
+            "110": "Sunset Yellow FCF",
+            "122": "Azorubine",
+            "124": "Ponceau 4R",
+            "127": "Erythrosine",
+            "132": "Indigo Carmine",
+            "133": "Brilliant Blue FCF",
+            "171": "Titanium Dioxide",
+            "414": "Gum Acacia",
+            "442": "Ammonium Phosphatide",
+            "476": "Polyglycerol Polyricinoleate",
+            "903": "Carnauba Wax"
+        },
+        "key_difference": "The Indian and Global formulas of Cadbury Gems Chocolate Mini Treats Pack have the same ingredients, but the order and grouping of some ingredients and colors differ slightly.",
+        "item_name": "Cadbury Gems Chocolate Mini Treats Pack",
+        "brand": "CADBURY"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 95,
+        "decoded_e_numbers": {
+            "414": "Mono- and diacetyl tartaric acid esters of mono- and diglycerides of fatty acids",
+            "442": "Ammonium phosphatide",
+            "476": "Polyglycerol polyricinoleate",
+            "903": "Carnauba wax",
+            "171": "Titanium dioxide",
+            "102": "Tartrazine",
+            "133": "Brilliant Blue FCF",
+            "124": "Ponceau 4R",
+            "127": "Erythrosine",
+            "122": "Azorubine",
+            "132": "Indigo carmine",
+            "110": "Sunset Yellow FCF"
+        },
+        "key_difference": "The Indian and Global formulas of Cadbury Gems Surprise Ball Chocolate are nearly identical, with the only difference being the specific flavor description, where 'VANILLA CAKE' is used in the Indian ingredients and 'Vanilla' is used in the Global ingredients.",
+        "item_name": "Cadbury Gems Surprise Ball Chocolate",
+        "brand": "CADBURY"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 90,
+        "decoded_e_numbers": {
+            "904": "Shellac",
+            "1400": "Dextrins",
+            "414": "Gum Arabic",
+            "442": "Ammonium phosphatides",
+            "476": "Polyglycerol polyricinoleate"
+        },
+        "key_difference": "The Indian version of Cadbury Nutties Chocolate contains Fractionated Fat and a vanilla cake flavor, whereas the global version contains Milk Solids with a higher percentage and a vanilla flavor.",
+        "item_name": "Cadbury Nutties Chocolate",
+        "brand": "CADBURY"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "500(ii)": "Sodium bicarbonate",
+            "503(ii)": "Ammonium bicarbonate",
+            "322": "Lecithin",
+            "442": "Ammonium phosphatide",
+            "476": "Polyglycerol polyricinoleate",
+            "501": "Potassium carbonate",
+            "500": "Sodium carbonate"
+        },
+        "key_difference": "The Indian version of Cadbury Oreo contains refined wheat flour, fractionated fat, and palmolein, whereas the global version uses wheat flour, vegetable fats, and milk fat, indicating a difference in the formula and ingredient composition.",
+        "item_name": "Cadbury Oreo Original Chocolatey Sandwich\u00a0Biscuits",
+        "brand": "CADBURY"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 20,
+        "decoded_e_numbers": {
+            "E301": "Sodium ascorbate",
+            "E310": "Propyl gallate",
+            "E320": "Butylated hydroxyanisole",
+            "E330": "Citric acid",
+            "E363": "Succinic acid",
+            "E500": "Sodium carbonates",
+            "E621": "Monosodium glutamate"
+        },
+        "key_difference": "The Indian version of Cheetos Masala PUFFS contains Gram meal and Black salt, which are not present in the Global version, whereas the Global version contains Whey, Cheddar cheese, and Artificial colors like Yellow 6.",
+        "item_name": "Cheetos Masala PUFFS, Crispy Chips &\u00a0Snacks",
+        "brand": "CHEETOS"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 85,
+        "decoded_e_numbers": {
+            "E150d": "Caramel Colour",
+            "E211": "Sodium Benzoate",
+            "E331": "Sodium Citrate",
+            "E338": "Phosphoric Acid",
+            "E955": "Sucralose",
+            "E950": "Acesulfame Potassium"
+        },
+        "key_difference": "The Indian formula uses acidity regulators 338 and 331(iii), whereas the global formula uses phosphoric acid and sodium citrates, indicating a difference in acidity regulation between the two versions.",
+        "item_name": "Coca-Cola Zero Sugar Soft\u00a0Drink",
+        "brand": "COKE ZERO"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 90,
+        "decoded_e_numbers": {
+            "INS 322": "Lecithin",
+            "INS 500ii": "Sodium bicarbonate"
+        },
+        "key_difference": "The Indian formula lists Raising Agent as INS 500ii, while the global formula lists it as sodium acid carbonate, indicating a potential difference in formulation despite overall similarity.",
+        "item_name": "Confetteria Raffaello Coconut and White Almond",
+        "brand": "CONFETTERIA RAFFAELLO"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 20,
+        "decoded_e_numbers": {
+            "INS 296": "Malic Acid",
+            "INS 330": "Citric Acid"
+        },
+        "key_difference": "The Indian version of Del Monte Green Apple Fruit Drink Crisp contains primarily reconstituted apple juice, while the global version contains a blend of orange, grape, and apple juice concentrates.",
+        "item_name": "Del Monte Green Apple Fruit Drink Crisp",
+        "brand": "DEL MONTE"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 0,
+        "decoded_e_numbers": {},
+        "key_difference": "The Indian version of Del Monte Penne Rigate Pasta contains only Durum Wheat Semolina, whereas the Global version contains a completely different set of ingredients including Peaches and Clarified Grape Juice.",
+        "item_name": "Del Monte Penne Rigate Pasta Durum\u00a0Wheat",
+        "brand": "DEL MONTE"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 0,
+        "decoded_e_numbers": {
+            "Ins 579": "Erythorbic Acid"
+        },
+        "key_difference": "The Indian version of Del Monte Sliced Black Olives contains olives and common food additives, whereas the global version contains completely different ingredients like peaches and grape juice.",
+        "item_name": "Del Monte Sliced Black Olives",
+        "brand": "DEL MONTE"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "162": "Beet Red",
+            "124": "Ponceau 4R",
+            "551": "Silicon dioxide",
+            "627": "Disodium guanylate",
+            "631": "Disodium inosinate"
+        },
+        "key_difference": "The Indian version of Doritos Dinamita Fiery Lime & Chilli Flavour Namkeen contains milk solids, whereas the global version contains smoked paprika powder and jalape\u00f1o powder, indicating a difference in formulation between the two regions.",
+        "item_name": "Doritos Dinamita Fiery Lime & Chilli Flavour\u00a0Namkeen",
+        "brand": "DORITOS"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 40,
+        "decoded_e_numbers": {
+            "INS 260": "Acetic acid",
+            "INS 330": "Citric acid",
+            "INS 319": "Teriary butylhydroquinone (TBHQ)"
+        },
+        "key_difference": "The Indian version of Dr. Oetker FunFoods Pizza Topping All-in-One Sauce has a significantly different formulation compared to the global version, with the Indian version lacking wheat flour, mozzarella cheese, and various vegetables found in the global version.",
+        "item_name": "Dr. Oetker FunFoods Pizza Topping All-in-One\u00a0Sauce",
+        "brand": "DR OETKER"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "INS 415": "Xanthan Gum",
+            "INS 1422": "Acetylated Distarch Adipate",
+            "INS 1442": "Hydroxypropyl Distarch Phosphate",
+            "INS 407": "Carrageenan",
+            "INS 260": "Acetic Acid",
+            "INS 330": "Citric Acid",
+            "INS 300": "Ascorbic Acid",
+            "INS 211": "Sodium Benzoate",
+            "INS 202": "Potassium Sorbate",
+            "INS 319": "Ter-Butylhydroquinone (TBHQ)",
+            "INS 385": "Calcium Disodium Ethylenediaminetetraacetic Acid (Calcium Disodium EDTA)"
+        },
+        "key_difference": "The Indian version of Dr. Oetker Funfoods Stripes includes Tomatoes and Lemon Juice, which are not listed in the Global ingredients.",
+        "item_name": "Dr. Oetker Funfoods Stripes - Mayo & Ketchup",
+        "brand": "DR OETKER"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "INS420": "Sorbited",
+            "INS422": "Glycerol",
+            "INS501": "Potassium carbonates",
+            "INS142": "Acacia gum",
+            "INS322": "Lecithin",
+            "INS471": "Mono- and diglycerides of fatty acids",
+            "INS481": "Sodium stearoyl lactylate",
+            "INS330": "Citric acid",
+            "INS1100": "Amylase",
+            "INS1102": "Silicon dioxide",
+            "INS1104": "Potassium bromate"
+        },
+        "key_difference": "The Indian version of Dr. Oetker Kuppies Chocolate Waffle contains fewer ingredients, such as no milk solids or dark vegetable fat, and has different levels of certain components compared to the Global version.",
+        "item_name": "Dr. Oetker Kuppies Chocolate Waffle",
+        "brand": "DR OETKER"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "ins420": "Sorbitol",
+            "ins422": "Glycerol",
+            "ins501": "Potassium carbonate",
+            "ins142": "Acetylated distarch phosphate",
+            "ins322": "Lecithin",
+            "ins471": "Mono- and diglycerides of fatty acids",
+            "ins481": "Sodium stearoyl lactylate",
+            "ins330": "Citric acid",
+            "ins415": "Xanthan gum",
+            "ins340": "Potassium citrate",
+            "ins261": "Potassium acetate",
+            "ins284": "Potassium sorbate",
+            "ins200": "Sorbic acid",
+            "ins1100": "Amylase",
+            "ins3": "Erythorbic acid",
+            "ins1102": "Glucose oxidase",
+            "ins1104": "Potassium gluconate"
+        },
+        "key_difference": "The Indian version of Dr. Oetker Kuppies Strawberry Waffle contains strawberry powder, while the global version contains cocoa solids and dark vegetable fat, indicating significant differences in formulation.",
+        "item_name": "Dr. Oetker Kuppies Strawberry Waffle",
+        "brand": "DR OETKER"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "INS 300": "Ascorbic Acid",
+            "INS 319": "Teriary Butyl Hydroquinone (TBHQ)",
+            "INS 211": "Sodium Benzoate",
+            "INS 202": "Potassium Sorbate",
+            "INS 330": "Citric Acid",
+            "INS 415": "Xanthan Gum",
+            "INS 1442": "Hydroxypropyl Distarch Phosphate",
+            "INS 260": "Acetic Acid"
+        },
+        "key_difference": "The Indian version of Oetker FunFoods Pesto Italian Sauce contains Basil Leaves, whereas the Global version contains Water, Milk Solids, and different stabilizers and acidity regulators.",
+        "item_name": "Oetker FunFoods Pesto Italian\u00a0Sauce",
+        "brand": "DR OETKER"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 80,
+        "decoded_e_numbers": {
+            "E150d": "Caramel",
+            "E950": "Acesulfame K",
+            "E951": "Aspartame"
+        },
+        "key_difference": "The Indian version of Dr Pepper uses Potassium Sorbate as a preservative, while the Global version uses Sodium Benzoate.",
+        "item_name": "Dr Pepper Sparkling Fruit Flavour Soft\u00a0Drink",
+        "brand": "DR PEPPER"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 80,
+        "decoded_e_numbers": {
+            "INS 330": "Citric Acid",
+            "INS 414": "Gum Acacia",
+            "INS 445": "Glycerol Esters of Wood Rosin",
+            "INS 211": "Sodium Benzoate",
+            "INS 110": "Sunset Yellow FCF",
+            "202": "Potassium Sorbate",
+            "120": "Cochineal, Carmine",
+            "1610": "Carotenoids"
+        },
+        "key_difference": "The Indian version of Fanta Orange contains additional stabilizers INS 414 and INS 445, while the global version contains preservative INS 202 and a different set of natural colours.",
+        "item_name": "Fanta Orange Flavoured Soft\u00a0Drink",
+        "brand": "FANTA"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 90,
+        "decoded_e_numbers": {
+            "Ins 322": "Lecithin",
+            "Ins 500Ii": "Sodium bicarbonate"
+        },
+        "key_difference": "The Indian formula of Ferrero Rocher uses Anhydrous Milkfat, whereas the Global formula uses concentrated butter.",
+        "item_name": "Ferrero Rocher",
+        "brand": "FERRERO ROCHER"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 95,
+        "decoded_e_numbers": {
+            "INS 322": "Lecithin",
+            "INS 503ii": "Ammonium bicarbonate",
+            "INS 500ii": "Sodium bicarbonate"
+        },
+        "key_difference": "The Indian and Global ingredients of Ferrero Rocher Moments Pack are nearly identical, with no significant differences in the formulation.",
+        "item_name": "Ferrero Rocher Moments Pack",
+        "brand": "FERRERO ROCHER"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 80,
+        "decoded_e_numbers": {
+            "E153": "Carbon black",
+            "E503": "Ammonium carbonate",
+            "322": "Lecithin",
+            "422": "Glycerol",
+            "476": "Polyglycerol polyricinoleate"
+        },
+        "key_difference": "The Indian formulation contains emulsifiers 322 and 476, whereas the global version uses soya lecithin as an emulsifier, indicating a difference in the type of emulsifier used.",
+        "item_name": "Galaxy Cookie Crumble CHOCOLATE BAR",
+        "brand": "GALAXY"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 20,
+        "decoded_e_numbers": {
+            "E322": "Lecithin",
+            "E471": "Mono- and di-glycerides of fatty acids",
+            "E341": "Calcium phosphate",
+            "E500": "Sodium carbonate",
+            "E501": "Potassium carbonate"
+        },
+        "key_difference": "The Indian version of Galaxy Fusions Silky Smooth Dark CHOCOLATE BAR has a significantly simpler ingredient list compared to the global version, with the global version containing additional ingredients such as skimmed milk powder, peanuts, and tree nuts.",
+        "item_name": "Galaxy Fusions Silky Smooth Dark CHOCOLATE BAR, Made with 70% Cocoa",
+        "brand": "GALAXY"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 80,
+        "decoded_e_numbers": {
+            "422": "Glycerol",
+            "322": "Lecithin",
+            "476": "Polyglyceryl polyricinoleate"
+        },
+        "key_difference": "The Indian version of Galaxy Smooth Milk CHOCOLATE BAR uses Humectant and Emulsifiers with codes 422, 322, and 476, whereas the Global version uses soya lecithin as the emulsifier and has additional ingredients like whey permeate and palm fat.",
+        "item_name": "Galaxy Smooth Milk CHOCOLATE BAR",
+        "brand": "GALAXY"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "330": "Citric Acid",
+            "445": "Glycerol esters of wood rosins",
+            "102": "Tartrazine",
+            "414": "Gum Acacia",
+            "133": "Brilliant Blue FCF"
+        },
+        "key_difference": "The Indian version of Gatorade Blue Bolt contains sugar and dextrose, whereas the global version uses sucralose and acesulfam-K as sweeteners.",
+        "item_name": "Gatorade Blue Bolt Zero Sugar Energy\u00a0Drink",
+        "brand": "GATORADE"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 40,
+        "decoded_e_numbers": {
+            "INS 330": "Citric Acid",
+            "INS 110": "Sunset Yellow FCF",
+            "INS 444": "Sodium Metabisulfite"
+        },
+        "key_difference": "The Indian formula contains sugar, whereas the global formula uses artificial sweeteners like sucralose and acesulfame potassium.",
+        "item_name": "Gatorade Orange Zero Sugar Energy\u00a0Drink",
+        "brand": "GATORADE"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {},
+        "key_difference": "The Indian version of Godiva Milk Chocolate Rich & Creamy lacks vegetable oil and salt found in the global version, and also has a different formulation of milk powder and emulsifiers.",
+        "item_name": "Godiva Milk Chocolate Rich & Creamy",
+        "brand": "GODIVA"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 80,
+        "decoded_e_numbers": {
+            "E500 (ii)": "Sodium hydrogen carbonate"
+        },
+        "key_difference": "The Indian formula includes glucose syrup and a raising agent, whereas the global formula includes lactose, skim milk, coconut oil, and whey powder in the caramel crunch.",
+        "item_name": "Godiva Salted Caramel Belgian Milk Chocolate",
+        "brand": "GODIVA"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "E120": "Cochineal",
+            "E140": "Chlorophylls and chlorophyllins",
+            "E141": "Copper complexes of chlorophylls and chlorophyllins",
+            "E160a": "Carotenes",
+            "E160c": "Paprika extract",
+            "E161b": "Lutein",
+            "E161g": "Canthaxanthin"
+        },
+        "key_difference": "The Indian version of Haribo Goldbaren contains additional fruit concentrates like orange, lemon, and mango, while the global version contains humectant sorbitol syrup and starch, indicating a difference in texture and formulation.",
+        "item_name": "Haribo Goldbaren",
+        "brand": "HARIBO"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 95,
+        "decoded_e_numbers": {
+            "339(ii)": "Sodium phosphate",
+            "460(i)": "Microcrystalline cellulose",
+            "466": "Carboxymethyl cellulose",
+            "471": "Mono- and di-glycerides of fatty acids"
+        },
+        "key_difference": "The Indian formula lacks 'Nature Identical Flavouring Substances' present in the Global formula, otherwise the ingredients are nearly identical.",
+        "item_name": "Hershey's Chocolate Milkshake",
+        "brand": "HERSHEYS"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 80,
+        "decoded_e_numbers": {
+            "322": "Lecithin",
+            "500ii": "Sodium bicarbonate"
+        },
+        "key_difference": "The Indian version of Hershey's Cookies 'N' Creme chocolate bar uses palm oil and artificial vanillin, whereas the global version uses soya lecithin as an emulsifier and natural flavorings.",
+        "item_name": "Hershey's Cookies 'N' Creme CHOCOLATE BAR",
+        "brand": "HERSHEYS"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 20,
+        "decoded_e_numbers": {
+            "460": "Cellulose",
+            "466": "Carboxymethylcellulose",
+            "471": "Glycerol esters of fatty acids",
+            "391": "Sodium aluminum silicate",
+            "415": "Xanthan gum",
+            "407": "Carrageenan"
+        },
+        "key_difference": "The Indian version of Hershey's Cookies and Cream Milkshake lacks white chocolate and cocoa biscuit pieces present in the global formula, indicating a significant difference in ingredients and formulation.",
+        "item_name": "Hershey's Cookies and Cream Milkshake",
+        "brand": "HERSHEYS"
+    },
+    {
+        "item_name": "Hershey's Creamy Milk CHOCOLATE BAR",
+        "brand": "HERSHEYS",
+        "is_valid_match": false
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "E322": "Lecithin",
+            "E476": "Polyglycerol Polyricinoleate (PGPR)"
+        },
+        "key_difference": "The Indian version of Hershey's Dark Chocolate Bar lacks explicit mention of soy lecithin and PGPR, which are present in the global formula.",
+        "item_name": "Hershey's Dark CHOCOLATE BAR",
+        "brand": "HERSHEYS"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "1400": "Dextrins",
+            "415": "Gum arabic",
+            "551": "Silicon dioxide",
+            "322(i)": "Lecithin",
+            "440": "Pectins",
+            "414": "Gum arabic (alternative)",
+            "331 (iii)": "Sodium citrate",
+            "904": "Shellac",
+            "296": "Malic acid",
+            "122": "Azorubine",
+            "102": "Tartrazine",
+            "133": "Brilliant Blue FCF"
+        },
+        "key_difference": "The Indian version of Hershey's Exotic Dark Chocolate Californian Almonds contains blackberry fruit powder, whereas the global version contains a mix of fruit pulp including papaya, raspberry, and goji.",
+        "item_name": "Hershey's Exotic Dark Chocolate Californian Almonds - With Blackberry Crunchy Dark Chocolate",
+        "brand": "HERSHEYS"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 20,
+        "decoded_e_numbers": {
+            "440": "Pectins",
+            "414": "Gum acacia",
+            "331 (iii)": "Sodium citrate",
+            "296": "Malic acid",
+            "322(i)": "Lecithin",
+            "1400": "Dextrins",
+            "904": "Shellac"
+        },
+        "key_difference": "The Indian version of Hershey's Exotic Dark Pomegranate Chocolate contains a significant amount of papaya and uses liquid glucose, whereas the global version is primarily made with high fructose corn syrup and lacks papaya.",
+        "item_name": "Hershey's Exotic Dark Pomegranate Chocolate",
+        "brand": "HERSHEYS"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "440": "Pectin",
+            "414": "Gum Acacia",
+            "331": "Sodium Citrate",
+            "1400": "Dextrin",
+            "322": "Lecithin",
+            "904": "Shellac"
+        },
+        "key_difference": "The Indian version of Hershey's Exotic Raspberry & Goji Dark Chocolate has a higher cocoa solid content at 29.4% compared to 13% in the global version, and also lacks synthetic food colours and artificial flavours present in the global formula.",
+        "item_name": "Hershey's Exotic Raspberry & Goji Dark Chocolate",
+        "brand": "HERSHEYS"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 80,
+        "decoded_e_numbers": {
+            "322(i)": "Lecithin",
+            "476": "Polyglyceryl polyricinoleate"
+        },
+        "key_difference": "The Indian formula lists cocoa solids and emulsifiers separately, while the global formula combines them under milk chocolate and adds sunflower oil and natural flavor.",
+        "item_name": "Hershey's Kisses Almonds Chocolate",
+        "brand": "HERSHEYS"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "322": "Lecithin",
+            "476": "Polyglycerol polyricinoleate"
+        },
+        "key_difference": "The Indian formula includes artificial flavoring substance Vanillin and edible vegetable oil from sunflower and palm, whereas the global formula includes natural flavor and lecithin from soy.",
+        "item_name": "Hershey's Kisses Choco Truffle",
+        "brand": "HERSHEYS"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "322(I)": "Lecithin",
+            "476": "Polyglycerol polyricinoleate",
+            "500(II)": "Sodium bicarbonate"
+        },
+        "key_difference": "The Indian version of Hershey's Kisses Cookies 'N' Cream Chocolate contains edible vegetable oil and cocoa solids, whereas the global version contains semisweet chocolate chips and soy lecithin.",
+        "item_name": "Hershey's Kisses Cookies 'N' Cream Chocolate",
+        "brand": "HERSHEYS"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 70,
+        "decoded_e_numbers": {
+            "500i": "Sodium Bicarbonate",
+            "322": "Lecithin",
+            "442": "Ammonium Phosphatide",
+            "476": "Polyglycerol Polyricinoleate"
+        },
+        "key_difference": "The Indian version of Hershey's Kisses Hazelnut 'N' Cookies Chocolate contains refined wheat flour, while the global version contains rice flour, indicating a possible difference in formulation.",
+        "item_name": "Hershey's Kisses Hazelnut 'N' Cookies Chocolate",
+        "brand": "HERSHEYS"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 90,
+        "decoded_e_numbers": {
+            "INS 322(i)": "Lecithin",
+            "INS 476": "Polyglycerol Polyricinoleate"
+        },
+        "key_difference": "The Indian version of Hershey's Kisses Milk Chocolate lists 'Milk Solids' and 'Emulsifiers' generically, while the global version explicitly lists 'milk', 'milk fat', and 'lecithin (soy)'.",
+        "item_name": "Hershey's Kisses Milk Chocolate",
+        "brand": "HERSHEYS"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 20,
+        "decoded_e_numbers": {
+            "339 (ii)": "Sodium phosphates",
+            "415": "Xanthan gum",
+            "460(i)": "Microcrystalline cellulose",
+            "466": "Carboxymethyl cellulose",
+            "471": "Mono- and di-glycerides of fatty acids"
+        },
+        "key_difference": "The Indian formula uses Milk Solids and has added vitamins, whereas the Global formula uses High Fructose Corn Syrup and Artificial Flavor.",
+        "item_name": "Hershey's Strawberry Milkshake",
+        "brand": "HERSHEYS"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "322(i)": "Lecithin",
+            "500ii": "Sodium hydrogen carbonate"
+        },
+        "key_difference": "The Indian version of Hershey's Cocoa + Almond Spread uses Hydrogenated Vegetable Fat and Emulsifier 322(i), whereas the Global version uses soya lecithin as an emulsifier and includes additional ingredients like wheat flour and lactose.",
+        "item_name": "Hershey's Cocoa + Almond Spread",
+        "brand": "HERSHEYS"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 20,
+        "decoded_e_numbers": {
+            "E202": "Potassium Sorbate"
+        },
+        "key_difference": "The Indian version of Hershey's Cocoa Powder contains only cocoa, whereas the global version contains a list of additional ingredients including high fructose corn syrup and artificial flavor.",
+        "item_name": "Hershey's Cocoa Powder",
+        "brand": "HERSHEYS"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "INS 471": "Mono- and di-glycerides of fatty acids",
+            "INS 501(ii)": "Potassium carbonate",
+            "INS 500(ii)": "Sodium bicarbonate",
+            "E551": "Silicon dioxide"
+        },
+        "key_difference": "The Indian formula contains Millet and Soy Protein Isolate, whereas the Global formula contains Palm Oil and Dried Whey Milk, indicating significant differences in the ingredients used.",
+        "item_name": "Horlicks Nutrition Drink Jar",
+        "brand": "HORLICKS"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "E551": "Silicon dioxide"
+        },
+        "key_difference": "The Indian formula lacks several ingredients present in the global formula, including malted barley, dried whey, and various vitamins and minerals.",
+        "item_name": "Horlicks Women's Plus Caramel Drink Mix",
+        "brand": "HORLICKS"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 40,
+        "decoded_e_numbers": {
+            "INS 307b": "Antioxidant (TBHQ)",
+            "INS 500(ii)": "Sodium bicarbonate",
+            "INS 150d": "Caramel colour"
+        },
+        "key_difference": "The Indian version of Kellogg's Chocolate Muesli contains ragi flour, sorghum flour, and pumpkin seeds, whereas the global version contains hazelnuts, barley malt extract, and cinnamon, indicating distinct formulation differences between the two.",
+        "item_name": "Kellogg's Chocolate Muesli",
+        "brand": "KELLOGGS"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 20,
+        "decoded_e_numbers": {
+            "INS 320": "Butylated Hydroxyanisole (BHA), an antioxidant"
+        },
+        "key_difference": "The Indian version of Kellogg's Corn Flakes With Real Strawberry contains beetroot extract and cereal extract, while the global version contains peanuts, barley malt extract, molasses, and honey.",
+        "item_name": "Kellogg's Corn Flakes With Real Strawberry",
+        "brand": "KELLOGGS"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "INS 3076": "Tocopherol",
+            "INS 140": "Chlorophyll",
+            "INS 150D": "Calcium carbonate"
+        },
+        "key_difference": "The Indian version of Kellogg's Muesli Fruit Nut & Seeds contains a higher percentage of multigrain mix and specific ingredients like ragi millet flour, whereas the global version has a higher oat content and different types of nuts and dried fruits.",
+        "item_name": "Kellogg's Muesli Fruit Nut & Seeds 12-in-1 Power\u00a0Breakfast",
+        "brand": "KELLOGGS"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 70,
+        "decoded_e_numbers": {
+            "INS 150a": "Caramel Colouring",
+            "INS 150d": "Caramel Colouring (Class 1)",
+            "INS 307b": "Antioxidant TBHQ (tert-Butylhydroquinone)"
+        },
+        "key_difference": "The Indian version of Kellogg's Multigrain Chocos contains a higher proportion of multigrain flour mix and includes rice flour, whereas the global version contains ragi flour and refined wheat flour (maida).",
+        "item_name": "Kellogg's Multigrain Chocos",
+        "brand": "KELLOGGS"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "INS 322": "Lecithin"
+        },
+        "key_difference": "The Indian version of Kinder Creamy Milky And Cocoa With Extruded Rice lacks certain ingredients present in the global version, such as sheanut oil, sunflower oil, wheat flour, wheat germ, wheat starch, cocoa mass, soy lecithin, whey proteins, cocoa butter, ammonium bicarbonate, and sodium bicarbonate.",
+        "item_name": "Kinder Creamy Milky And Cocoa With Extruded Rice",
+        "brand": "KINDER JOY"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 90,
+        "decoded_e_numbers": {
+            "E150d": "Caramel Colour",
+            "E322": "Soy Lecithin"
+        },
+        "key_difference": "The Indian formula contains Edible Vegetable Oil (Palm Olein) whereas the Global formula contains Huile de Noix de Coco, which translates to Coconut Oil.",
+        "item_name": "KOPIKO Cappuccino Coffee\u00a0Candy",
+        "brand": "KOPIKO"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "627": "Disodium 5'-guanylate",
+            "631": "Disodium 5'-inosinate"
+        },
+        "key_difference": "The Indian version of Lay's American Cream & Onion Potato Chips contains a more detailed breakdown of ingredients, including the presence of milk solids, cheese powder, and hydrolysed vegetable protein, which are not explicitly mentioned in the global ingredients list.",
+        "item_name": "Lay's American Cream & Onion Potato\u00a0Chips",
+        "brand": "LAY'S"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 20,
+        "decoded_e_numbers": {
+            "551": "Silicon dioxide",
+            "627": "Disodium guanylate",
+            "631": "Disodium inosinate"
+        },
+        "key_difference": "The Indian formula contains milk solids, cheese powder, and hydrolysed vegetable protein, whereas the global formula contains barbecue flavouring base, tomato, onion, and garlic powder, indicating distinct flavour profiles.",
+        "item_name": "Lay's American Cream & Onion Potato\u00a0Chips",
+        "brand": "LAY'S"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 90,
+        "decoded_e_numbers": {},
+        "key_difference": "The Indian version of Lay's Classic Salted Potato Chips uses Palmolein Oil and Rice Bran Oil, whereas the global version uses a blend of canola, corn, soybean, and/or sunflower oil.",
+        "item_name": "Lay's Classic Salted Potato\u00a0Chips",
+        "brand": "LAY'S"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "330": "Citric Acid",
+            "296": "Malic Acid",
+            "334": "Tartaric Acid"
+        },
+        "key_difference": "The Indian version of Lay's Magic Masala contains additional ingredients like Black Salt and Anticaking Agent, whereas the Global version includes Yeast Extract and Paprika.",
+        "item_name": "Lay's India's Magic Masala Potato\u00a0Chips",
+        "brand": "LAY'S"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 70,
+        "decoded_e_numbers": {
+            "330": "Citric Acid",
+            "296": "Malic Acid",
+            "334": "Tartrazine",
+            "551": "Silicon dioxide"
+        },
+        "key_difference": "The Indian version of Lay's Magic Masala contains Maltodextrin, Acidity Regulators, and Colour 160C, which are not present in the Global version, while the Global version contains additional spices and condiments like Onion Powder, Chilli Powder, and Ginger Powder.",
+        "item_name": "Lay's India's Magic Masala Potato\u00a0Chips",
+        "brand": "LAY'S"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "INS 330": "Citric Acid",
+            "INS 551": "Silicon Dioxide",
+            "INS 627": "Disodium Guanylate",
+            "INS 631": "Disodium Inosinate"
+        },
+        "key_difference": "The Indian version of Lay's Potato Chips - Sizzling Hot Spicy Flavour contains edible vegetable oil such as palmolein and rice bran oil, whereas the global version contains sunflower oil.",
+        "item_name": "Lay's Potato Chips - Sizzling Hot Spicy\u00a0Flavour",
+        "brand": "LAY'S"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "551": "Silicon dioxide",
+            "627": "Disodium guanylate",
+            "631": "Disodium inosinate"
+        },
+        "key_difference": "The Indian version of Lay's Potato Chips WAFERstyle uses Palmolein Oil, whereas the Global version uses Sunflower oil.",
+        "item_name": "Lay's Potato Chips WAFERstyle - Salt with Pepper Flavour",
+        "brand": "LAY'S"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 95,
+        "decoded_e_numbers": {
+            "551": "Silicon dioxide",
+            "627": "Disodium 5'-guanylate",
+            "631": "Disodium 5'-inosinate"
+        },
+        "key_difference": "The Indian version of Lay's Spanish Tomato Tango Potato Chips includes a salt substitute (potassium chloride) which is not mentioned in the global ingredients list.",
+        "item_name": "Lay's Spanish Tomato Tango Potato\u00a0Chips",
+        "brand": "LAY'S"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 90,
+        "decoded_e_numbers": {
+            "551": "Silicon dioxide",
+            "627": "Disodium guanylate",
+            "631": "Disodium inosinate"
+        },
+        "key_difference": "The Indian version of Lay's West Indies Hot 'n' Sweet Chilli Potato Chips does not explicitly mention onion and garlic as ingredients, unlike the global version.",
+        "item_name": "Lay's West Indies Hot 'n' Sweet Chilli Potato\u00a0Chips",
+        "brand": "LAY'S"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 95,
+        "decoded_e_numbers": {
+            "INS 211": "Sodium Benzoate",
+            "INS 330": "Citric Acid",
+            "INS 331": "Sodium Citrate",
+            "INS 414": "Gum Acacia",
+            "INS 471": "Mono- and Di-Glycerides of Fatty Acids"
+        },
+        "key_difference": "The Indian and Global ingredients of Limca Lemon Soft Drink are nearly identical, with the only difference being the formatting and wording of the ingredients list.",
+        "item_name": "Limca Lemon Soft Drink",
+        "brand": "LIMCA"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "E442": "Ammonium phosphatide",
+            "E471": "Mono- and di-glycerides of fatty acids",
+            "E476": "Polyglycerol polyricinoleate"
+        },
+        "key_difference": "The Indian formulation lacks glucose syrup, vegetable fats, and humectant found in the global ingredients, while also including barley malt extract and lactose not present in the global list.",
+        "item_name": "Cocoa mass, sugar, cocoa butter, VANILLA CAKE",
+        "brand": "LINDT"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {},
+        "key_difference": "The Indian version of Lindt Excellence 70% Cocoa Dark Chocolate contains vanilla cake which is not present in the global version.",
+        "item_name": "Lindt Excellence 70 % Cocoa Dark Chocolate",
+        "brand": "LINDT"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 80,
+        "decoded_e_numbers": {},
+        "key_difference": "The Indian version of Lindt Excellence 90% Cocoa Supreme Dark CHOCOLATE BAR contains VANILLA CAKE, whereas the global version contains vanilla.",
+        "item_name": "Lindt Excellence 90% Cocoa Supreme Dark CHOCOLATE BAR",
+        "brand": "LINDT"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 80,
+        "decoded_e_numbers": {
+            "E322": "Lecithin",
+            "E331": "Sodium citrate",
+            "E401": "Sodium alginate",
+            "E339": "Sodium phosphate"
+        },
+        "key_difference": "The Indian version of Lindt Excellence Orange Intense Dark Chocolate contains invert sugar and lemon juice from concentrate, whereas the global version has a more complex orange preparation with additional ingredients like apple and pineapple.",
+        "item_name": "Lindt Excellence Orange Intense Dark Chocolate",
+        "brand": "LINDT"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {},
+        "key_difference": "The Indian version of Lindt Exotic Milk Cornet Chocolate contains additional ingredients like barley malt extract and lactose, which are not mentioned in the global ingredients.",
+        "item_name": "Lindt Exotic Milk Cornet Chocolate",
+        "brand": "LINDT"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 80,
+        "decoded_e_numbers": {
+            "E322": "Lecithin",
+            "E170": "Calcium carbonate"
+        },
+        "key_difference": "The Indian version of Lindt Lindor Smooth Melting Assorted Chocolates Cornet lacks desiccated coconut, natural flavouring, and salt crystals present in the global version, but contains artificial flavourings like vanillin and caramel.",
+        "item_name": "Lindt Lindor Smooth Melting Assorted Chocolates Cornet",
+        "brand": "LINDT"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {},
+        "key_difference": "The Indian version of Lindt Swiss Classic Milk Chocolate does not contain hazelnuts, which are present in the global version at 15%.",
+        "item_name": "Lindt Swiss Classic Milk Chocolate",
+        "brand": "LINDT"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {},
+        "key_difference": "The Indian version of Lotte Coffy Bite Classic contains coffee extract and has a distinct flavor profile, whereas the global version includes peach flavoring and citric acid.",
+        "item_name": "Lotte Coffy Bite Classic",
+        "brand": "LOTTE"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "E322": "Lecithin",
+            "E471": "Mono- and di-glycerides of fatty acids"
+        },
+        "key_difference": "The Indian version of Lotte Eclairs Coffy Bite Toffee contains coffee extract and chocolate center, whereas the global version has peach flavoring and citric acid.",
+        "item_name": "Lotte Eclairs Coffy Bite Toffee",
+        "brand": "LOTTE"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 80,
+        "decoded_e_numbers": {
+            "501(i)": "Sodium carbonate",
+            "500(i)": "Sodium bicarbonate",
+            "508": "Dihydrogen potassium oxide (Potassium chloride)",
+            "412": "Guar gum",
+            "451(1)": "Sodium triphosphate",
+            "330": "Citric acid",
+            "635": "Disodium 5'-ribonucleotide",
+            "150d": "Caramel color"
+        },
+        "key_difference": "The Indian formula includes additional spices like aniseed, fenugreek, and green cardamom powders, whereas the global formula includes sodium tripolyphosphate and potassium iodate, indicating a variation in ingredient composition between the two regions.",
+        "item_name": "MAGGI 2-Minute Instant Noodles",
+        "brand": "MAGGI"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "501(I)": "Sodium Carbonate",
+            "500(I)": "Sodium Bicarbonate",
+            "508": "Dihydrogen Phosphate",
+            "412": "Guar Gum",
+            "451(I)": "Sodium Tripolyphosphate",
+            "635": "Disodium 5'-Ribonucleotide",
+            "330": "Citric Acid",
+            "150D": "Brown HT"
+        },
+        "key_difference": "The Indian version of Maggi Chicken Instant Noodles contains chicken meat and chicken fat, whereas the global version is suitable for vegetarians and contains durum wheat semolina.",
+        "item_name": "Maggi Chicken Instant Noodles",
+        "brand": "MAGGI"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "412": "Guar gum",
+            "508": "Potassium chloride",
+            "451(i)": "Potassium citrate",
+            "501(1)": "Potassium carbonate",
+            "500(i)": "Sodium carbonate",
+            "330": "Citric acid",
+            "635": "Disodium 5'-ribonucleotide",
+            "415": "Xanthan gum",
+            "551": "Silicon dioxide"
+        },
+        "key_difference": "The Indian formula of Maggi Chilly Chow Cuppa Noodles contains fewer ingredients and lacks certain components like milk, sesame, and soybean found in the global version.",
+        "item_name": "Maggi Chilly Chow Cuppa Noodles",
+        "brand": "MAGGI"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "501(i)": "Sodium carbonate",
+            "500(i)": "Sodium bicarbonate",
+            "508": "Dihydrogen potassium phosphate",
+            "412": "Guar gum",
+            "451(i)": "Potassium nitrate",
+            "635": "Disodium 5'-ribonucleotide",
+            "330": "Citric acid",
+            "150c": "Caramel colour (class III)",
+            "150d": "Caramel colour (class IV)"
+        },
+        "key_difference": "The Indian version of Maggi Korean BBQ Veg Instant Noodles contains a more extensive list of ingredients, including spice extracts and natural flavoring substances, whereas the global version seems to have a simplified formula with fewer ingredients and a focus on basic flavor enhancers like glutamate monosodique and inosinate disodique.",
+        "item_name": "Maggi Korean BBQ Veg Instant Noodles",
+        "brand": "MAGGI"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "412": "Guar gum",
+            "508": "Dipotassium phosphate",
+            "451(i)": "Sodium triphosphate",
+            "501(i)": "Sodium carbonate",
+            "500(i)": "Sodium bicarbonate",
+            "330": "Citric acid",
+            "415": "Xanthan gum",
+            "635": "Disodium 5'-ribonucleotide"
+        },
+        "key_difference": "The Indian and Global formulas of Maggi Masala Cuppa Noodles differ in the composition of the Masala Tastemaker, with the Global formula containing additional ingredients like celery, milk, sesame, and soybean.",
+        "item_name": "Maggi Masala Cuppa Noodles",
+        "brand": "MAGGI"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "E621": "Monosodium glutamate",
+            "E631": "Disodium inosinate"
+        },
+        "key_difference": "The Indian version of Maggi Nutri-licious Masala Veg Atta Noodles lists simpler ingredients like herbs, spices, and vegetables, whereas the global version includes more specific additives like ar\u00f4mes, glutamate monosodique, and inosinate disodique.",
+        "item_name": "Maggi Nutri-licious Masala Veg Atta\u00a0Noodles",
+        "brand": "MAGGI"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 95,
+        "decoded_e_numbers": {
+            "501(i)": "Sodium carbonate",
+            "500(i)": "Sodium bicarbonate",
+            "451(i)": "Sodium tripolyphosphate",
+            "508": "Dihydrogen potassium phosphate",
+            "412": "Guar gum",
+            "635": "Disodium 5'-ribonucleotide",
+            "330": "Citric acid"
+        },
+        "key_difference": "The Indian and Global formulas of Maggi Special Masala Instant Noodles are nearly identical, with the only notable difference being the Global formula explicitly listing potential allergens such as Milk, Mustard, and Soy.",
+        "item_name": "Maggi Special Masala Instant Noodles",
+        "brand": "MAGGI"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 90,
+        "decoded_e_numbers": {
+            "E341": "Calcium phosphate",
+            "E492": "Sodium stearoyl lactylate",
+            "E500": "Sodium carbonate",
+            "E501": "Potassium carbonate"
+        },
+        "key_difference": "The Indian formula includes lactose and protein from whey, whereas the global formula includes whey permeate, resulting in a slightly different composition.",
+        "item_name": "Maltesers Chocolate",
+        "brand": "MALTESERS"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "442": "Ammonium phosphatide",
+            "471": "Mono- and di-glycerides of fatty acids",
+            "476": "Polyglycerol polyricinoleate",
+            "500": "Sodium carbonates"
+        },
+        "key_difference": "The Indian version of the Mars Caramel chocolate bar contains hydrogenated oil and hydrolyzed vegetable protein, whereas the global version contains wheat flour, skimmed milk powder, and soya lecithin.",
+        "item_name": "Mars Caramel CHOCOLATE BAR",
+        "brand": "MARS"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "INS 500(ii)": "Sodium Bicarbonate",
+            "INS 503(ii)": "Ammonium Bicarbonate",
+            "INS 450(i)": "Sodium Bicarbonate",
+            "INS 296": "Malic Acid",
+            "INS 223": "Sodium Metabisulphite"
+        },
+        "key_difference": "The Indian version of Mcvitie's Digestive High Fibre Biscuits contains Refined Wheat Flour and Wheat Bran, while the global version contains Wholemeal Wheat Flour and no Wheat Bran.",
+        "item_name": "Mcvitie's Digestive High Fibre Biscuits With Goodness Of Wholewheat",
+        "brand": "MCVITIES"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 80,
+        "decoded_e_numbers": {
+            "INS 414": "Gum Arabic",
+            "INS 418": "Gellan Gum",
+            "INS 473": "Sugar Ester of Fatty Acids",
+            "INS 93": "Carnauba Wax",
+            "e414": "Gum Arabic",
+            "e418": "Gellan Gum"
+        },
+        "key_difference": "The Indian version of Mentos Chewy Dragees lacks citric acid, fruit juices from concentrate, and colours like beta-carotene and beetroot red found in the global version.",
+        "item_name": "Mentos Chewy Dragees",
+        "brand": "MENTOS"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "INS 33": "Potassium citrate",
+            "INS 525": "Potassium hydroxide",
+            "INS 414": "Gum arabic",
+            "INS 418": "Gellan gum",
+            "INS 473": "Glycerol esters of fatty acids",
+            "INS 93": "Grape skin extract",
+            "INS 127": "Erythrosine",
+            "INS 11": "Sunset yellow FCF"
+        },
+        "key_difference": "The Indian formula explicitly lists strawberry and orange fruit powders, while the global formula mentions 'vegetable juice' and 'annatto extract' without specifying the exact fruit content.",
+        "item_name": "Mentos Rainbow Assorted Flavour Chewy Toffee",
+        "brand": "MENTOS"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "INS 330": "Citric Acid",
+            "INS 525": "Potassium Hydroxide",
+            "INS 414": "Gum Arabic",
+            "INS 418": "Gellan Gum",
+            "INS 473": "Sucrose Esters of Fatty Acids",
+            "INS 903": "Carnauba Wax",
+            "INS 127": "Erythrosine"
+        },
+        "key_difference": "The Indian version of Mentos Strawberry Flavour Toffee contains Hydrogenated Vegetable Oil, while the Global version contains Hydrogenated Coconut Oil, indicating a difference in the formulation of the two products.",
+        "item_name": "Mentos Strawberry Flavour Toffee",
+        "brand": "MENTOS"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 90,
+        "decoded_e_numbers": {
+            "Emulsifier": "Soy Lecithin (E322)"
+        },
+        "key_difference": "The Indian formula lists 'Emulsifier' while the global formula explicitly states 'Soy Lecithin' and also includes 'Skim Milk' instead of 'Skimmed Milk Powder'.",
+        "item_name": "Milka Raisins & Nuts Milk Chocolate",
+        "brand": "MILKA"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "340(ii)": "Potassium dihydrogen phosphate",
+            "341(ii)": "Calcium dihydrogen phosphate",
+            "412": "Guar gum",
+            "407": "Carrageenan",
+            "960": "Steviol glycosides"
+        },
+        "key_difference": "The Indian version of Nestle Milo contains millet and toned milk, whereas the global version contains malt barley, rice, and maltodextrin, with different proportions of ingredients and additives.",
+        "item_name": "Nestle Milo Health Chocolate Drink with\u00a0Millets",
+        "brand": "MILO"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 80,
+        "decoded_e_numbers": {
+            "330": "Citric Acid",
+            "331": "Sodium Citrate",
+            "444": "Sodium Succinates",
+            "955": "Sucralose",
+            "960": "Steviol Glycosides",
+            "1450": "Starch sodium octenyl succinate",
+            "211": "Sodium Benzoate",
+            "445": "Glycerol esters of wood rosins"
+        },
+        "key_difference": "The Indian version of Mirinda Orange Flavoured Soft Drink uses Sweeteners 955 and 960, whereas the global version does not, and also has different stabilizers.",
+        "item_name": "Mirinda Orange Flavoured Soft\u00a0Drink",
+        "brand": "MIRINDA"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "330": "Citric Acid",
+            "331": "Sodium Citrate",
+            "211": "Sodium Benzoate",
+            "445 (iii)": "Glycerol esters of wood rosins",
+            "102": "Tartrazine"
+        },
+        "key_difference": "The Indian version of Mountain Dew Lemon Soft Drink uses regulators 330 and 331, preservative 211, and stabilizer 445, whereas the global version uses citric acid, potassium sorbate, and gum arabic.",
+        "item_name": "Mountain Dew Lemon Soft Drink",
+        "brand": "MOUNTAIN DEW"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 80,
+        "decoded_e_numbers": {
+            "INS 1440": "Hydroxypropyl methyl cellulose",
+            "INS 460": "Microcrystalline cellulose",
+            "INS 466": "Carboxymethyl cellulose",
+            "INS 407": "Carrageenan",
+            "INS 339": "Sodium phosphates",
+            "INS 340": "Potassium phosphates"
+        },
+        "key_difference": "The Indian version of BRU Classic Cold Coffee Tetra Pack has a lower coffee content and uses INS 339 (ii) as an acidity regulator, whereas the global version uses INS 340 (ii) and has a higher coffee content at 1%.",
+        "item_name": "BRU Classic Cold Coffee Tetra\u00a0Pack",
+        "brand": "NESCAFE"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 20,
+        "decoded_e_numbers": {
+            "460(i)": "Microcrystalline cellulose",
+            "466": "Carboxymethyl cellulose",
+            "500(ii)": "Sodium bicarbonate",
+            "332(ii)": "Potassium citrate",
+            "322(i)": "Lecithin"
+        },
+        "key_difference": "The Indian version of Nescafe Cafe Style Iced Frappe Cold Coffee contains a list of stabilizers, acidity regulators, and emulsifiers, whereas the global ingredients only mention caf\u00e9 molido de tueste natural, indicating a significant difference in formulation.",
+        "item_name": "Nescafe Cafe Style Iced Frappe Cold\u00a0Coffee",
+        "brand": "NESCAFE"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "339(ii)": "Sodium citrate",
+            "407": "Carrageenan"
+        },
+        "key_difference": "The Indian version of Nescafe Ready To Drink Coffee contains Double Toned Milk as the primary ingredient, whereas the global version contains a mix of milk and water with a higher coffee content.",
+        "item_name": "Nescafe Ready To Drink Coffee Flavoured Milk Iced Latte\u00a0Cold\u00a0Coffee",
+        "brand": "NESCAFE"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "339(ii)": "Sodium citrate",
+            "407": "Carrageenan"
+        },
+        "key_difference": "The Indian version of Nescafe Ready To Drink Coffee contains double toned milk as the primary ingredient, whereas the global version contains a mix of milk and coffee as primary ingredients with varying compositions.",
+        "item_name": "Nescafe Ready To Drink Coffee Flavoured Milk Intense Cafe Cappucino\u00a0Cold\u00a0Coffee",
+        "brand": "NESCAFE"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "442": "Ammonium phosphatides",
+            "476": "Polyglycerol polyricinoleate",
+            "lecithins": "E322"
+        },
+        "key_difference": "The Indian version of Kitkat Delights Hazelnut contains hazelnuts and milk solids as primary ingredients, whereas the global version includes wheat flour and skimmed milk powder as primary ingredients.",
+        "item_name": "Kitkat Delights Hazelnut",
+        "brand": "NESTLE"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 80,
+        "decoded_e_numbers": {
+            "E300": "Ascorbic Acid",
+            "E304": "Ascorbyl Palmitate",
+            "E306": "Tocopherol (Vitamin E)",
+            "E307": "Alpha-Tocopherol",
+            "E308": "Gamma-Tocopherol",
+            "E309": "Delta-Tocopherol",
+            "E322": "Lecithin",
+            "E330": "Citric Acid",
+            "E334": "Tartaric Acid",
+            "E335": "Sodium Tartrate",
+            "E336": "Potassium Tartrate",
+            "E401": "Sodium Alginate",
+            "E402": "Potassium Alginate",
+            "E405": "Propylene Glycol Alginate",
+            "E500": "Sodium Carbonate",
+            "E501": "Potassium Carbonate",
+            "E503": "Ammonium Carbonate",
+            "E504": "Magnesium Carbonate",
+            "E507": "Hydrochloric Acid",
+            "E508": "Potassium Chloride",
+            "E509": "Calcium Chloride",
+            "E511": "Magnesium Chloride",
+            "E512": "Stannous Chloride",
+            "E513": "Sulphuric Acid",
+            "E514": "Sodium Sulfate",
+            "E515": "Potassium Sulfate",
+            "E516": "Calcium Sulfate",
+            "E517": "Ammonium Sulfate",
+            "E518": "Magnesium Sulfate",
+            "E520": "Aluminium Sulfate",
+            "E521": "Aluminium Sodium Sulfate",
+            "E522": "Aluminium Potassium Sulfate",
+            "E523": "Aluminium Ammonium Sulfate",
+            "E524": "Sodium Hydroxide",
+            "E525": "Potassium Hydroxide",
+            "E526": "Calcium Hydroxide",
+            "E527": "Ammonium Hydroxide",
+            "E528": "Magnesium Hydroxide",
+            "E529": "Calcium Oxide",
+            "E530": "Magnesium Oxide",
+            "E535": "Sodium Ferrocyanide",
+            "E536": "Potassium Ferrocyanide",
+            "E537": "Ferrous Hexacyanomanganate",
+            "E538": "Calcium Ferrocyanide",
+            "E544": "Calcium Polyphosphate",
+            "E545": "Ammonium Polyphosphate",
+            "E550": "Sodium Silicate",
+            "E551": "Silicon Dioxide",
+            "E552": "Calcium Silicate",
+            "E553": "Magnesium Silicate",
+            "E554": "Aluminium Silicate",
+            "E555": "Potassium Aluminium Silicate",
+            "E556": "Calcium Aluminium Silicate",
+            "E570": "Stearic Acid",
+            "E572": "Magnesium Stearate",
+            "E574": "Glukonic Acid",
+            "E575": "Glukono-Delta-Lakton",
+            "E576": "Natriumglukonat",
+            "E620": "Glutamins\u00e4ure",
+            "E621": "Mononatriumglutamat",
+            "E622": "Monopotassiumglutamat",
+            "E623": "Calciumdiglutamat",
+            "E624": "Magnesiumdiglutamat",
+            "E625": "Magnesiumdiglutamat",
+            "E626": "Guanyls\u00e4ure",
+            "E627": "Natriumguanylat",
+            "E628": "Dinatriumguanylat",
+            "E629": "Calciumguanylat",
+            "E630": "Inosins\u00e4ure",
+            "E631": "Natriuminosinat",
+            "E632": "Dinatriuminosinat",
+            "E633": "Calciuminosinat",
+            "E634": "Calcium-5'-Ribonucleotid",
+            "E635": "Dinatrium-5'-Ribonucleotid",
+            "E640": "Glycin",
+            "E641": "L-Leucin",
+            "E642": "L-Lysinacetat",
+            "E650": "Zincacetat",
+            "E901": "Bienenwachs",
+            "E902": "Candelillawachs",
+            "E903": "Karnaubawachs",
+            "E904": "Schellack",
+            "E905": "Paraffin",
+            "E907": "Kryolith",
+            "E914": "Oxidised Polyethylene-Wachs",
+            "E920": "L-Cystein",
+            "E921": "L-Cystin",
+            "E922": "Potassium-Persulfat",
+            "E923": "Ammonium-Persulfat",
+            "E924": "Potassium-Bromat",
+            "E925": "Chlor",
+            "E926": "Chlordioxid",
+            "E927": "Azodicarbonamid",
+            "E928": "Benzoylperoxid",
+            "E930": "Calcium-Formiat",
+            "E938": "Argon",
+            "E939": "Helium",
+            "E940": "Distickstoffmonoxid",
+            "E941": "Stickstoff",
+            "E942": "Natriumhydroxid",
+            "E943": "Natriumcarbonat",
+            "E944": "Natriumphosphat",
+            "E945": "Kaliumcarbonat",
+            "E946": "Kaliumphosphat",
+            "E948": "Sauerstoff",
+            "E949": "Hydrogen",
+            "E950": "Acesulfam-K",
+            "E951": "Aspartam",
+            "E952": "Zyclam",
+            "E953": "Isomalt",
+            "E954": "Saccharin",
+            "E955": "Sucralose",
+            "E957": "Thaumatin",
+            "E959": "Neohesperidin",
+            "E960": "Steviolglykoside",
+            "E961": "Neotam",
+            "E962": "Aspartam-Acesulfam-Salz",
+            "E965": "Maltitol",
+            "E966": "Lactitol",
+            "E967": "Xylitol",
+            "E968": "Erythritol",
+            "E999": "Extrakt aus Quillaja"
+        },
+        "key_difference": "The Indian version of the product contains barley flour and dehydrated apple bits, whereas the global version contains hydrolyzed wheat, bifidobacteria and vanilline.",
+        "item_name": "Nestle Cerelac Multigrain & Fruits Baby Food\u00a0Cereal",
+        "brand": "NESTLE"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "E101": "Riboflavin",
+            "E141": "Copper complexes of chlorophylls and chlorophyllins",
+            "E151": "Brilliant Black BN",
+            "E160a": "Carotenes",
+            "E300": "Ascorbic acid",
+            "E306": "Tocopherol-rich extract",
+            "E322": "Lecithin",
+            "E331": "Sodium citrate",
+            "E392": "Extracts of rosemary",
+            "E414": "Acacia gum",
+            "E415": "Xanthan gum",
+            "E460": "Microcrystalline cellulose",
+            "E471": "Mono- and di-glycerides of fatty acids",
+            "E500": "Sodium carbonate",
+            "E501": "Potassium carbonate"
+        },
+        "key_difference": "The Indian formula contains apple juice concentrate, carrot juice concentrate, and soyabean oil, whereas the global formula contains honey, rapeseed oil, and a different set of vitamins and minerals.",
+        "item_name": "Nestle Cerelac Wheat Apple Carrot Baby Food\u00a0Cerea",
+        "brand": "NESTLE"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "500(ii)": "Sodium bicarbonate",
+            "516": "Potassium sulfate"
+        },
+        "key_difference": "The Indian formula includes hydrogenated vegetable fats and yeast, whereas the global formula uses skimmed milk powder and fat reduced cocoa powder, indicating differences in the manufacturing process and ingredient sources.",
+        "item_name": "Nestle KitKat Delights Caramel",
+        "brand": "NESTLE"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "500(ii)": "Sodium hydrogen carbonate",
+            "516": "Calcium carbonate"
+        },
+        "key_difference": "The Indian version of Nestle KitKat Delights Rich contains hydrogenated vegetable fats, yeast, and flour treatment agent, whereas the Global version contains palm, shea, and skimmed milk powder.",
+        "item_name": "Nestle KitKat Delights Rich",
+        "brand": "NESTLE"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 90,
+        "decoded_e_numbers": {},
+        "key_difference": "The Indian version of Nestle Milkmaid Partly Skimmed Sweetened Condensed Milk contains only Milk Solids and Sugar, whereas the Global version may have additional ingredients not specified.",
+        "item_name": "Nestle Milkmaid Partly Skimmed Sweetened Condensed\u00a0Milk",
+        "brand": "NESTLE"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 0,
+        "decoded_e_numbers": {
+            "500(ii)": "Sodium hydrogen carbonate",
+            "516": "Sodium sulphate"
+        },
+        "key_difference": "The Indian and Global versions of the product have completely different ingredient lists, with the Indian version containing hydrogenated vegetable fats and cocoa solids, while the Global version contains yogurt, strawberry puree, and beetroot juice concentrate.",
+        "item_name": "Nestle Munch Max Choco Coated Crunchy WAFERBar",
+        "brand": "NESTLE"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 90,
+        "decoded_e_numbers": {
+            "Ins 322": "Lecithin"
+        },
+        "key_difference": "The Indian version of Nutella Hazelnut Spread uses palm oil, while the global version uses vegetable oil, and also has slight variations in the proportions of skimmed milk powder and cocoa powder.",
+        "item_name": "Nutella Hazelnut Spread with\u00a0Cocoa",
+        "brand": "NUTELLA"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 80,
+        "decoded_e_numbers": {
+            "420 (ii)": "Sorbites",
+            "422": "Glycerol",
+            "1520": "Propylene glycol",
+            "322": "Lecithin",
+            "475": "Polyglycerol esters of fatty acids",
+            "471": "Mono- and di-glycerides of fatty acids",
+            "491": "Sorbityl sorbitan trioleate",
+            "500 (i)": "Sodium bicarbonate",
+            "450 (i)": "Sodium triphosphate",
+            "341 (i)": "Sodium citrate",
+            "442": "Ammonium phosphatides",
+            "476": "Polyglycerol polyricinoleate",
+            "415": "Xanthan gum"
+        },
+        "key_difference": "The Indian and Global ingredients of Cadbury Chocobakes ChocLayered Cakes have similar formulations, but the Indian version contains palm olein, while the global version contains hydrogenated vegetable oils, indicating a potential difference in fat sources used.",
+        "item_name": "Cadbury Chocobakes ChocLayered Cakes",
+        "brand": "OREO"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 40,
+        "decoded_e_numbers": {
+            "442": "Ammonium phosphatide",
+            "500": "Sodium carbonate",
+            "503": "Ammonium bicarbonate",
+            "450": "Sodium and potassium triphosphates",
+            "322": "Lecithin",
+            "e442": "Ammonium phosphatide",
+            "e476": "Polyglycerol polyricinoleate",
+            "e501": "Potassium carbonate",
+            "e500": "Sodium carbonate"
+        },
+        "key_difference": "The Indian version of the product has a different set of ingredients, including the use of palmolein and invert sugar, which are not found in the global version, suggesting a distinct formula for the Indian market.",
+        "item_name": "Cadbury Chocobakes ChocoChip Cookies",
+        "brand": "OREO"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "INS500(ii)": "Sodium Bicarbonate",
+            "INS541(i)": "Sodium Acid Pyrophosphate"
+        },
+        "key_difference": "The Indian version of Pillsbury Butterscotch Flavour Pancake Mix contains Refined Wheat Flour and Edible Vegetable Oil, whereas the Global version contains a blend of ingredients including Corn Syrup, Canola Oil, and Artificial Colors.",
+        "item_name": "Pillsbury Butterscotch Flavour Pancake Mix",
+        "brand": "PILLSBURY"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 40,
+        "decoded_e_numbers": {
+            "ins 500(ii)": "Sodium bicarbonate",
+            "ins 541(I)": "Sodium ferrocyanide",
+            "ins 150d": "Caramel colour"
+        },
+        "key_difference": "The Indian version of the product contains refined wheat flour and cocoa powder, whereas the global version contains whole wheat flour and a blend of natural and artificial flavors.",
+        "item_name": "Pillsbury Chocolate Flavour Pancake Mix 2-Minute Pancake\u00a0Mix\u00a0For\u00a0Kids",
+        "brand": "PILLSBURY"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "E471": "Mono- and di-glycerides of fatty acids"
+        },
+        "key_difference": "The Indian version of Pringles Imported Potato Chips - Ranch contains a more complex flavor profile with additional ingredients like buttermilk, sour cream, and various acids, whereas the global version has a simpler ingredient list with fewer flavor components.",
+        "item_name": "Pringles Imported Potato Chips - Ranch",
+        "brand": "PRINGLES"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "E471": "Mono- and diglycerides of fatty acids"
+        },
+        "key_difference": "The Indian version of Pringles BBQ contains a more complex blend of ingredients including yeast extract, tomato powder, and hydrolyzed corn protein, whereas the global version has a simpler formula with fewer ingredients.",
+        "item_name": "Pringles Imported Potato Crisps - BBQ",
+        "brand": "PRINGLES"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 80,
+        "decoded_e_numbers": {
+            "INS 330": "Citric Acid",
+            "INS 296": "Malic Acid",
+            "INS 334": "Tartaric Acid",
+            "INS 551": "Silicon Dioxide",
+            "INS 341(iii)": "Calcium Phosphate",
+            "INS 262(i)": "Sodium Acetate",
+            "INS 627": "Disodium 5'-Guanylate",
+            "INS 631": "Disodium 5'-Inosinate",
+            "INS 414": "Gum Acacia",
+            "INS 471": "Mono- and Di-Glycerides of Fatty Acids",
+            "INS 2620": "Potassium Acetate"
+        },
+        "key_difference": "The Indian and Global formulas of Pringles Potato Chips Desi Masala Tadka Flavour differ in the proportion of dried potato and the explicit quantity of spices in the Desi Masala Tadka Flavour Seasoning.",
+        "item_name": "Pringles Potato Chips Desi Masala Tadka Flavour",
+        "brand": "PRINGLES"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "471": "Mono- and di-glycerides of fatty acids",
+            "330": "Citric acid"
+        },
+        "key_difference": "The Indian version of Pringles Original Flavour contains palm oil and corn flour, whereas the global version uses vegetable oils and rice flour.",
+        "item_name": "Pringles Potato Chips Original Flavour",
+        "brand": "PRINGLES"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "E471": "Mono- and di-glycerides of fatty acids",
+            "INS 330": "Citric acid",
+            "INS 471": "Mono- and di-glycerides of fatty acids"
+        },
+        "key_difference": "The Indian version of Pringles contains edible vegetable oil (palm oil) and corn flour, whereas the global version contains sunflower oil, corn flour, wheat flour, and rice flour.",
+        "item_name": "Pringles Potato Chips Original Flavour - Classic Salted",
+        "brand": "PRINGLES"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "INS 296": "Malic Acid",
+            "INS 635": "Disodium 5'-ribonucleotide",
+            "INS 341 (iii)": "Calcium phosphate",
+            "INS 551": "Silicon dioxide",
+            "INS 471": "Mono- and diglycerides of fatty acids",
+            "INS 330": "Citric acid",
+            "E471": "Mono- and diglycerides of fatty acids"
+        },
+        "key_difference": "The Indian formula of Pringles Potato Chips Peri Peri Flavour contains a more complex seasoning blend with multiple spice extracts and a higher percentage of dried potato, whereas the global formula has a simpler ingredient list with different types of flour and oil.",
+        "item_name": "Pringles Potato Chips Peri Peri Flavour",
+        "brand": "PRINGLES"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "INS 270": "Lactic Acid",
+            "INS 296": "Malic Acid",
+            "INS 330": "Citric Acid",
+            "INS 471": "Mono- and Di-Glycerides of Fatty Acids",
+            "INS 551": "Silicon Dioxide",
+            "INS 635": "Disodium 5'-Ribonucleotide"
+        },
+        "key_difference": "The Indian version of Pringles Potato Chips Pizza Flavour contains palm oil, while the global version contains sunflower oil, indicating a difference in the primary edible vegetable oil used in the two formulations.",
+        "item_name": "Pringles Potato Chips Pizza Flavour",
+        "brand": "PRINGLES"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "INS 330": "Citric Acid",
+            "INS 296": "Malic Acid",
+            "INS 551": "Silicon dioxide",
+            "INS 341(ii)": "Sodium hexametaphosphate",
+            "INS 414": "Gum Acacia",
+            "MSS 631": "Disodium inosinate"
+        },
+        "key_difference": "The Indian version of Pringles Potato Chips Tangy Tomato Twist uses palm oil, whereas the global version uses a blend of corn, cottonseed, high oleic soybean, and/or sunflower oil.",
+        "item_name": "Pringles Potato Chips Tangy Tomato Twist",
+        "brand": "PRINGLES"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 20,
+        "decoded_e_numbers": {},
+        "key_difference": "The Indian version of Quaker Oats contains additional ingredients such as Natural And Artificial Sugar, Calcium Carbonate, Salt, Iron, Thiamine, Folic Acid, Vitamin A And Riboflavin, whereas the Global version only contains 100% rolled oats.",
+        "item_name": "Quaker Oats Breakfast Cereal",
+        "brand": "QUAKER"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 90,
+        "decoded_e_numbers": {
+            "E330": "Citric Acid",
+            "E500": "Sodium Bicarbonate",
+            "E504": "Magnesium Carbonate"
+        },
+        "key_difference": "The Indian formulation lists ' Sucrose, Flavours, Colour (Caramel)' whereas the global formulation uses 'Sugar, Natural flavors, Artificial flavors, Artificial Colors'.",
+        "item_name": "Red Bull Energy Drink",
+        "brand": "RED BULL"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 90,
+        "decoded_e_numbers": {
+            "330": "Citric acid",
+            "331(iii)": "Trisodium citrate",
+            "1400": "Dextrin",
+            "1450": "Starch sodium octenyl succinate",
+            "1422": "Acetic acid esters of mono- and diglycerides of fatty acids",
+            "903": "Carnauba wax",
+            "904": "Shellac",
+            "102": "Tartrazine",
+            "129": "Allura red AC",
+            "170(i)": "Calcium carbonate",
+            "110": "Sunset yellow FCF",
+            "132": "Indigo carmine",
+            "133": "Brilliant blue FCF",
+            "162": "Beetroot red",
+            "163": "Anthocyanins",
+            "e100": "Curcumin",
+            "e160a": "Carotenes",
+            "e162": "Beetroot red",
+            "e163": "Anthocyanins",
+            "e170": "Calcium carbonate"
+        },
+        "key_difference": "The Indian version of Skittles uses liquid glucose and edible vegetable oil, whereas the global version uses glucose syrup and palm fat, with some variations in E-numbers and stabilizers.",
+        "item_name": "Skittles Original Bite-Size Fruit Candy Tube",
+        "brand": "SKITTLES"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "E322": "Lecithin",
+            "E320": "Butylated Hydroxyanisole (BHA)",
+            "E321": "Butylated Hydroxytoluene (BHT)",
+            "E405": "Propylene glycol alginate",
+            "E412": "Guar gum",
+            "E414": "Acacia gum",
+            "E422": "Glycerol",
+            "E431": "Polyoxyethylene (40) stearate",
+            "E433": "Polysorbate 20",
+            "E434": "Polysorbate 40",
+            "E435": "Polysorbate 60",
+            "E436": "Polysorbate 65",
+            "E445": "Glycerol esters of wood rosins",
+            "E452": "Polyphosphates",
+            "E470": "Fatty acid salts and esters",
+            "E471": "Mono- and di-glycerides of fatty acids",
+            "E472": "Acetic acid esters of mono- and di-glycerides of fatty acids"
+        },
+        "key_difference": "The Indian version of Snickers Almond Filled Chocolate Bar contains almonds, whereas the global version does not list almonds as an ingredient, instead containing a variety of ingredients across different products, including peanuts, corn syrup, and palm oil.",
+        "item_name": "Snickers Almond Filled CHOCOLATE BAR",
+        "brand": "SNICKERS"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 80,
+        "decoded_e_numbers": {
+            "INS 330": "Citric Acid",
+            "INS 331(III)": "Trisodium Citrate",
+            "INS 211": "Sodium Benzoate"
+        },
+        "key_difference": "The Indian formula uses Preservative INS 211 and Acidity Regulators INS 330 and INS 331(III), whereas the Global formula uses Sodium Benzoate is not explicitly mentioned but uses Sodium Citrates as an acidity regulator.",
+        "item_name": "Sprite Lemon and Lime Soft\u00a0Drink",
+        "brand": "SPRITE"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 90,
+        "decoded_e_numbers": {},
+        "key_difference": "The Indian version lists 'aged red peppers' while the global version lists 'red pepper' with a specific concentration of 19%, but the core ingredients of red peppers, salt, and distilled vinegar are consistent across both formulas.",
+        "item_name": "Tabasco Red Pepper Sauce",
+        "brand": "TABASCO"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "338": "Phosphoric Acid",
+            "211": "Sodium Benzoate",
+            "150d": "Caramel Colour (Class IV)",
+            "955": "Sucralose",
+            "950": "Acesulfame Potassium"
+        },
+        "key_difference": "The Indian version of Thums Up X Force contains artificial sweeteners like Sucralose and Acesulfame Potassium, whereas the global version contains sugar.",
+        "item_name": "Thums Up X Force",
+        "brand": "THUMS UP"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 80,
+        "decoded_e_numbers": {
+            "INS 1400": "Dextrins",
+            "INS 414": "Gum Arabic",
+            "INS 903": "Carnauba Wax"
+        },
+        "key_difference": "The Indian formula uses stabilizers and thickener listed as INS 1400 and INS 414, while the global formula lists them as gum arabic and uses additional anti-agglom\u00e9rant: sels de magn\u00e9sium d'acides gras.",
+        "item_name": "Tic Tac Candy - Red Apple Treat",
+        "brand": "TIC TAC"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "INS 33": "Tartaric Acid",
+            "INS 414": "Gum Arabic",
+            "INS 47 (i)": "Magnesium Stearate",
+            "INS 93": "Carnauba Wax"
+        },
+        "key_difference": "The Indian version of Tic Tac Orange Hard Candy lacks artificial colors like Yellow 6 and has different anticaking and glazing agents compared to the global version.",
+        "item_name": "Tic Tac Orange Hard Candy",
+        "brand": "TIC TAC"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 95,
+        "decoded_e_numbers": {
+            "INS 414": "Gum Arabic",
+            "INS 470(i)": "Sodium Stearoyl Lactylate",
+            "INS 903": "Carnauba Wax"
+        },
+        "key_difference": "The Indian and global formulas of Tic Tac Seeds Fennel have similar ingredients, but the global version provides allergen information and has a slightly different flavour description.",
+        "item_name": "Tic Tac Seeds Fennel (Saunf)",
+        "brand": "TIC TAC"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 80,
+        "decoded_e_numbers": {
+            "E322": "Soya Lecithin"
+        },
+        "key_difference": "The Indian version of Toblerone Black Chocolate lacks the 'flavouring' ingredient and has different cocoa and milk solids percentages compared to the global version.",
+        "item_name": "Toblerone Black Chocolate",
+        "brand": "TOBLERONE"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 90,
+        "decoded_e_numbers": {},
+        "key_difference": "The Indian and Global versions of Toblerone Fruit & Nut Chocolate have similar ingredients, but the Global version has a slightly higher percentage of raisins and milk solids, and lists 'soya lecithin' instead of 'Soy Lecithin'.",
+        "item_name": "Toblerone Fruit & Nut Chocolate",
+        "brand": "TOBLERONE"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "160a": "Carotene",
+            "300": "Ascorbic Acid",
+            "330": "Citric Acid",
+            "440": "Pectin",
+            "466": "Sodium Carboxymethyl Cellulose",
+            "960": "Stevioglycosides"
+        },
+        "key_difference": "The Indian version of Tropicana Delight Guava Fruit Juice contains guava pulp, whereas the global version is made from a concentrated mixed fruit juice blend with a lower guava content.",
+        "item_name": "Tropicana Delight Guava Fruit\u00a0Juice",
+        "brand": "TROPICANA"
+    },
+    {
+        "is_valid_match": true,
+        "match_confidence": 90,
+        "decoded_e_numbers": {
+            "330": "Citric Acid",
+            "440": "Pectin",
+            "466": "Sodium carboxymethyl cellulose",
+            "960a": "Steviol glycosides"
+        },
+        "key_difference": "The Indian version of Tropicana Delight Mixed Fruit Juice contains 6.1% concentrated mixed fruit juice, whereas the global version contains 10.1% concentrated mixed fruit juice.",
+        "item_name": "Tropicana Delight Mixed Fruit\u00a0Juice",
+        "brand": "TROPICANA"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 60,
+        "decoded_e_numbers": {
+            "Ins 322": "Lecithin",
+            "Ins 500": "Sodium bicarbonate"
+        },
+        "key_difference": "The Indian version of Twix Minis uses Refined Wheat Flour and Edible Vegetable Fat, whereas the Global version uses Enriched Wheat Flour and Palm Oil, indicating differences in ingredients and nutritional content.",
+        "item_name": "Twix Minis Cookie Caramel Chocolate Pack",
+        "brand": "TWIX"
+    },
+    {
+        "is_valid_match": false,
+        "match_confidence": 0,
+        "decoded_e_numbers": {},
+        "key_difference": "The Indian formula contains typical chocolate bar ingredients like cocoa butter and milk, while the global ingredients list appears to be for a completely different product, such as a condiment, with ingredients like tomato ketchup and vinegar.",
+        "item_name": "Wedel Milk CHOCOLATE BAR",
+        "brand": "WEDEL"
+    }
+]
