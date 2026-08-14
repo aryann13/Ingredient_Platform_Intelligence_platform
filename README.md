@@ -70,16 +70,24 @@ flowchart TD
 The **Transparent Health Risk Score (THRS v3.0)** calculates an empirical health safety index from **0.0 (High Burden)** to **100.0 (Clean/Strong)** using a dual-vector formulation without cliff-edge step functions:
 
 ```text
-THRS v3.0 Score = 100 - min(Vector 1 [Macronutrients] + Vector 2 [Additives], 100)
+THRS v3 = 100 - P_nutrition - P_ingredient
 ```
 
-### 1. Vector 1: Macronutrient Density (Max 40 points)
-Evaluates nutritional density against WHO and ICMR daily intake guidelines:
-* **Added Sugar Penalty (0 to 20 pts):** Uses non-linear quadratic scaling curves ($(\text{Sugar}/50)^{1.4} \times 20$) preventing arbitrary cliff-edges while heavily penalizing high concentrations.
+with the mathematical guarantees:
+```text
+P_nutrition <= 40,   P_ingredient <= 25
+```
+
+> **Core Formulation Principle:**
+> **Nutrition penalty ($P_{\text{nutrition}}$)** captures quantitative nutrient burden (sugar, saturated fats, sodium), while the **ingredient/formulation penalty ($P_{\text{ingredient}}$)** captures bounded formulation signals (synthetic dyes, chemical preservatives, ultra-processed emulsifiers). Both are aggregated separately and then subtracted from a 100-point baseline.
+
+### 1. Vector 1: Macronutrient Penalty ($P_{\text{nutrition}}$, Max 40 points)
+Evaluates quantitative nutritional density against WHO and ICMR daily intake guidelines:
+* **Added Sugar Penalty (0 to 20 pts):** Uses non-linear scaling curves ($(\text{Sugar}/50)^{1.4} \times 20$) preventing arbitrary cliff-edges while heavily penalizing high concentrations.
 * **Saturated Fat Penalty (0 to 12 pts):** Penalizes concentrated palm oil and hydrogenated vegetable fats.
 * **Sodium Density Penalty (0 to 8 pts):** Penalizes excessive sodium concentrations ($>600\text{mg} / 100\text{g}$).
 
-### 2. Vector 2: Additive & Chemical Risk Burden (Max 25 points)
+### 2. Vector 2: Ingredient / Additive Penalty ($P_{\text{ingredient}}$, Max 25 points)
 Rigorously classifies and weights INS chemical additives from physical packaging:
 * **High-Risk Formulation Signals (-10 pts each):** Synthetic azo food dyes (*INS 102 Tartrazine, INS 110 Sunset Yellow, INS 122 Carmoisine, INS 129 Allura Red*), chemical preservatives (*INS 211 Sodium Benzoate, INS 224 Potassium Metabisulphite*), and high-potency artificial sweeteners (*INS 950 Acesulfame K, INS 951 Aspartame, INS 955 Sucralose*).
 * **Ultra-Processed Watch Additives (-3 pts each):** Synthetic emulsifiers and industrial thickeners (*INS 471 Mono- and Diglycerides, INS 472e, INS 476 PGPR*).

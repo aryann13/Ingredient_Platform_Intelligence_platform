@@ -1368,7 +1368,7 @@ elif nav_selection == "How Scoring Works":
                 <div style="font-size: 0.75rem; font-weight: 800; color: #2D5A3D; text-transform: uppercase; letter-spacing: 0.05em;">Locked Production Engine</div>
                 <div style="font-size: 1.20rem; font-weight: 800; color: #183B3A; margin: 4px 0 10px 0;">THRS v3.0 (Dual-Vector Engine)</div>
                 <div style="background: #FFFDF8; padding: 10px 12px; border-radius: 6px; border: 1px solid #CFDEC9; font-size: 0.84rem; font-weight: 700; color: #183B3A; margin-bottom: 10px;">
-                    Score = 100.0 - Nutrition Deductions - Formulation Deductions
+                    THRS v3 = 100.0 - P_nutrition - P_ingredient &nbsp; (P_nutrition ≤ 40, P_ingredient ≤ 25)
                 </div>
                 <div style="font-size: 0.82rem; color: #55625C; line-height: 1.55;">
                     • <b>Universal 100.0 Baseline:</b> Every product starts equal, eliminating category bias.<br>
