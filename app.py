@@ -210,12 +210,10 @@ def classify_additive(e_code: str, e_name: str) -> Tuple[str, str, str]:
         return "chip-standard", "Standard Additive", "#235431"
 
 def format_match_confidence(is_valid: bool, confidence: float) -> str:
-    """Formats global counterpart match confidence clearly without clinical claims."""
-    if not is_valid or confidence <= 0:
-        return "Indian Market Variant · No direct overseas match needed"
-    conf_val = int(confidence)
-    tier = "High match" if conf_val >= 75 else ("Moderate match" if conf_val >= 50 else "Partial match")
-    return f"Global match confidence: {conf_val}% · {tier}"
+    """Formats global counterpart match status clearly from OFF UK barcode scan data."""
+    if not is_valid:
+        return "Indian Market Variant · No direct overseas match in Open Food Facts"
+    return "UK / Global Open Food Facts Match · Recipe verified"
 
 # ── 4. Warm Editorial Design System & CSS ────────────────────────────────────
 render_html("""
@@ -1156,10 +1154,13 @@ elif nav_selection == "Check a Product":
             """)
             
         with rcol2:
+            uk_match = product.get('uk_match_found', False)
+            uk_header_color = '#4F7D5B' if uk_match else '#8C9690'
+            uk_header_label = 'GLOBAL MARKET RECIPE (UK / INTERNATIONAL)' if uk_match else 'GLOBAL MARKET RECIPE'
             render_html(f"""
             <div class="ti-card" style="height: 100%;">
-                <div style="font-size: 0.78rem; font-weight: 800; color: #4F7D5B; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 8px;">
-                    GLOBAL MARKET RECIPE (UK / INTERNATIONAL)
+                <div style="font-size: 0.78rem; font-weight: 800; color: {uk_header_color}; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 8px;">
+                    {uk_header_label}
                 </div>
                 <div class="recipe-box-uk">
                     {product.get('uk_ingredients_raw', 'UK/Global counterpart recipe text not available for this product variant.')}

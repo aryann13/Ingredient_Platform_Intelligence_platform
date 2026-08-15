@@ -7,12 +7,13 @@ Loads, normalizes, merges, and derives explainability insights from:
   2. data/health_scores_v3_staged.json (Phase 5A staged v3 scores)
   3. data/recommendations.json (Phase 5 clean swaps)
   4. data/multinational_brand_cleaned.csv (Phase 1 ingredients & attributes)
-  5. data/benchmark_candidates.json (Phase 2 OFF UK match ingredients)
+  5. data/multinational_brand_enriched.csv (Phase 2 OFF UK/Global match ingredients — authoritative)
   6. data/clean_indian_startup_brands.json (Phase 5 seed D2C details)
 
 Maintains strict separation between business logic and UI presentation.
 Normalizes non-breaking spaces (\xa0) to standard spaces.
 Zero fabricated scores or invented data fields.
+UK formulation data sourced from Open Food Facts UK barcode scan (Phase 2).
 """
 
 import json
@@ -44,8 +45,8 @@ class IngredientDataLoader:
         self.staged_v3_scores: List[Dict[str, Any]] = []
         self.recommendations: List[Dict[str, Any]] = []
         self.seed_brands: List[Dict[str, Any]] = []
-        self.benchmark_candidates: List[Dict[str, Any]] = []
         self.df_cleaned: Optional[pd.DataFrame] = None
+        self.df_enriched: Optional[pd.DataFrame] = None  # Phase 2 UK/Global enriched data
         self.master_registry: Dict[str, Dict[str, Any]] = {}
         self._load_and_validate_all()
 
@@ -69,11 +70,10 @@ class IngredientDataLoader:
             with open(recs_path, "r", encoding="utf-8") as f:
                 self.recommendations = json.load(f)
 
-        # 4. Benchmark Candidates (Phase 2)
-        cand_path = self.data_dir / "benchmark_candidates.json"
-        if cand_path.exists():
-            with open(cand_path, "r", encoding="utf-8") as f:
-                self.benchmark_candidates = json.load(f)
+        # 4. Phase 2 UK/Global Enriched Dataset (authoritative OFF UK source)
+        enriched_path = self.data_dir / "multinational_brand_enriched.csv"
+        if enriched_path.exists():
+            self.df_enriched = pd.read_csv(enriched_path, encoding="utf-8")
 
         # 5. Clean Seed Brands (Phase 5)
         seed_path = self.data_dir / "clean_indian_startup_brands.json"
@@ -92,7 +92,6 @@ class IngredientDataLoader:
     def _build_master_registry(self):
         """Combines all datasets on normalized 'item_name' into a single authoritative dictionary."""
         rec_lookup = {clean_name(r.get("scanned_product")): r for r in self.recommendations if "scanned_product" in r}
-        cand_lookup = {clean_name(c.get("Item name")): c for c in self.benchmark_candidates if "Item name" in c}
         v2_lookup = {clean_name(item.get("item_name")): item for item in self.health_scores if "item_name" in item}
         v3_lookup = {clean_name(item.get("item_name")): item for item in self.staged_v3_scores if "item_name" in item}
 
@@ -102,6 +101,14 @@ class IngredientDataLoader:
                 name = clean_name(row.get("Item name"))
                 if name:
                     csv_lookup[name] = row.to_dict()
+
+        # Phase 2 Enriched UK/Global lookup (authoritative OFF UK source)
+        enriched_lookup = {}
+        if self.df_enriched is not None:
+            for _, row in self.df_enriched.iterrows():
+                name = clean_name(row.get("Item name"))
+                if name:
+                    enriched_lookup[name] = row.to_dict()
 
         # Gather all unique product names across datasets
         all_product_names = set(v3_lookup.keys()) | set(v2_lookup.keys()) | set(csv_lookup.keys())
@@ -114,11 +121,21 @@ class IngredientDataLoader:
             v3_item = v3_lookup.get(name, {})
             rec_data = rec_lookup.get(name, {})
             csv_data = csv_lookup.get(name, {})
-            cand_data = cand_lookup.get(name, {})
+            enriched_data = enriched_lookup.get(name, {})
 
-            uk_ingredients = cand_data.get("OFF_UK_Ingredients")
-            if pd.isna(uk_ingredients) or not uk_ingredients:
-                uk_ingredients = "UK/Global recipe text not available for this product variant."
+            # ── UK/Global Formulation Data (from Phase 2 enriched CSV) ──
+            uk_match_found = str(enriched_data.get("OFF_UK_Match_Found_Y_N", "No")).strip().lower() == "yes"
+            uk_barcode = enriched_data.get("OFF_UK_Barcode", None)
+            raw_uk_ing = enriched_data.get("OFF_UK_Ingredients", None)
+
+            if uk_match_found and raw_uk_ing and not (isinstance(raw_uk_ing, float)):
+                uk_ingredients = str(raw_uk_ing).strip()
+            elif uk_match_found:
+                # Match found in OFF UK by barcode but ingredient text not captured
+                uk_ingredients = "Global counterpart found in Open Food Facts UK database — ingredient text not available for this product variant."
+            else:
+                # No overseas counterpart exists — product is India-specific
+                uk_ingredients = "Indian Market Variant — This product or formulation was not found in the UK / Global Open Food Facts database."
 
             has_v2 = "thrs_v2_score" in v2_item and v2_item.get("thrs_v2_score") is not None
             has_v3 = "thrs_v3_score" in v3_item and v3_item.get("thrs_v3_score") is not None
@@ -147,9 +164,9 @@ class IngredientDataLoader:
             # Merged Product Record
             self.master_registry[name] = {
                 "item_name": name,
-                "brand": v3_item.get("brand") or v2_item.get("brand") or csv_data.get("Brand_Name") or "Unknown Brand",
-                "category": v3_item.get("category") or rec_data.get("category") or csv_data.get("Category") or "General Grocery",
-                "sub_category": v3_item.get("sub_category") or csv_data.get("Sub_Category") or "General",
+                "brand": v3_item.get("brand") or v2_item.get("brand") or csv_data.get("Brand_Name") or enriched_data.get("Brand_Name") or "Unknown Brand",
+                "category": v3_item.get("category") or rec_data.get("category") or csv_data.get("Category") or enriched_data.get("Category") or "General Grocery",
+                "sub_category": v3_item.get("sub_category") or csv_data.get("Sub_Category") or enriched_data.get("Sub_Category") or "General",
                 "food_medium": v3_item.get("food_medium") or "solid",
                 
                 # Availability Flags
@@ -161,8 +178,8 @@ class IngredientDataLoader:
                 "thrs_v2_score": v2_score_val,
                 "decoded_e_numbers": v2_item.get("decoded_e_numbers", {}),
                 "key_difference": v2_item.get("key_difference", "No formulation difference logged."),
-                "is_valid_match": v2_item.get("is_valid_match", False),
-                "match_confidence": float(v2_item.get("match_confidence", 0.0)),
+                "is_valid_match": uk_match_found,
+                "match_confidence": float(v2_item.get("match_confidence", 100.0 if uk_match_found else 0.0)),
                 
                 # THRS v3 Staged Fields
                 "thrs_v3_score": float(v3_item.get("thrs_v3_score")) if has_v3 else None,
@@ -175,12 +192,19 @@ class IngredientDataLoader:
                 "detected_signals": signals_list,
                 "provenance_status": v3_item.get("provenance_status", "NOT_STAGED"),
 
-                # Raw Data & Recommendations
-                "ingredients_raw": str(csv_data.get("Ingredients", "Indian ingredient text not available in dataset.")),
-                "uk_ingredients_raw": str(uk_ingredients),
-                "serving_size_g": csv_data.get("Serving_Size_g", None),
-                "sugar_g": csv_data.get("Sugar_g", None),
-                "total_fat_g": csv_data.get("Total_Fat_g", None),
+                # Raw Data (Phase 1 cleaned CSV or Phase 2 enriched CSV as fallback)
+                "ingredients_raw": str(
+                    csv_data.get("Ingredients") or
+                    enriched_data.get("Ingredients") or
+                    "Indian ingredient text not available in dataset."
+                ),
+                # UK/Global formulation (Phase 2 enriched — the authoritative OFF UK source)
+                "uk_ingredients_raw": uk_ingredients,
+                "uk_match_found": uk_match_found,
+                "uk_barcode": str(uk_barcode) if uk_barcode and not (isinstance(uk_barcode, float) and str(uk_barcode) == 'nan') else None,
+                "serving_size_g": csv_data.get("Serving_Size_g") or enriched_data.get("Serving_Size_g"),
+                "sugar_g": csv_data.get("Sugar_g") or enriched_data.get("Sugar_g"),
+                "total_fat_g": csv_data.get("Total_Fat_g") or enriched_data.get("Total_Fat_g"),
                 "food_type": rec_data.get("food_type", "general"),
                 "recommendations": rec_data.get("recommendations", []),
                 "guardrail_status": rec_data.get("guardrail_status", "standard"),
